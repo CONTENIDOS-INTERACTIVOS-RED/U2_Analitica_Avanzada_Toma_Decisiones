@@ -15,70 +15,32 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Título tema',
+        titulo: 'Modelos de simulación para análisis de escenarios',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Subtítulo tema',
-            hash: 't_1_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Subtítulo tema',
-            hash: 't_1_2',
-          },
-        ],
       },
       {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Título tema',
+        titulo:
+          'Redes Bayesianas y su aplicación en la toma de decisiones estratégicas',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Subtítulo tema',
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Subtítulo tema',
-            hash: 't_2_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
-            titulo: 'Subtítulo tema',
-            hash: 't_2_3',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Título tema',
+        titulo:
+          'Algoritmos de agrupamiento y segmentación en inteligencia de negocios',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo: 'Subtítulo tema',
-            hash: 't_3_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'Subtítulo tema',
-            hash: 't_3_2',
-          },
-        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        icono: 'far fa-file-alt',
+        numero: '4',
+        titulo:
+          'Análisis de sensibilidad y evaluación de impacto en modelos predictivos',
+        desarrolloContenidos: true,
       },
       {
         nombreRuta: 'sintesis',
@@ -130,14 +92,104 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Bioética',
+      termino: 'Algoritmo de agrupamiento',
       significado:
-        'disciplina que estudia las implicaciones éticas, sociales y legales de los avances biológicos y médicos, buscando garantizar que las decisiones en estos campos respeten la dignidad humana, los derechos fundamentales y la justicia social.',
+        'técnica de machine learning utilizada para dividir un conjunto de datos en grupos con características similares.',
     },
     {
-      termino: '<em>Design Thinking</em>',
+      termino: 'Análisis de impacto',
       significado:
-        'método de diseño centrado en el usuario que se basa en la comprensión de las necesidades y expectativas de los clientes, para crear soluciones innovadoras y efectivas.',
+        'evaluación del efecto de una variable o decisión en los resultados de un modelo predictivo.',
+    },
+    {
+      termino: 'Análisis de sensibilidad',
+      significado:
+        'método para medir cómo los cambios en las variables de entrada afectan la salida de un modelo.',
+    },
+    {
+      termino: 'Big data',
+      significado:
+        'conjunto de datos masivos que requieren técnicas avanzadas para su procesamiento y análisis.',
+    },
+    {
+      termino: 'Clasificación',
+      significado:
+        'método de segmentación que asigna datos a categorías predefinidas en modelos predictivos.',
+    },
+    {
+      termino: 'Clusterización',
+      significado:
+        'técnica de agrupamiento que organiza datos en subconjuntos según similitudes.',
+    },
+    {
+      termino: 'Datos de entrada',
+      significado:
+        'variables utilizadas en un modelo predictivo para generar resultados.',
+    },
+    {
+      termino: 'Dirección estratégica',
+      significado:
+        'proceso de toma de decisiones que guía a una organización hacia sus objetivos a largo plazo.',
+    },
+    {
+      termino: 'Evaluación de impacto',
+      significado:
+        'proceso de medición de los efectos de una intervención o estrategia en un modelo o negocio.',
+    },
+    {
+      termino: 'Inferencia Bayesiana',
+      significado:
+        'método probabilístico basado en el Teorema de Bayes para actualizar creencias con nueva evidencia.',
+    },
+    {
+      termino: 'Inteligencia de negocios',
+      significado:
+        'conjunto de procesos y herramientas que transforman datos en información útil para la toma de decisiones.',
+    },
+    {
+      termino: 'Machine Learning',
+      significado:
+        'rama de la inteligencia artificial que permite a sistemas aprender de datos y mejorar su rendimiento sin programación explícita.',
+    },
+    {
+      termino: 'Modelos predictivos',
+      significado:
+        'algoritmos utilizados para predecir tendencias o resultados futuros basados en datos históricos.',
+    },
+    {
+      termino: 'Optimización de recursos',
+      significado:
+        'proceso de distribución eficiente de insumos para mejorar la rentabilidad de una organización.',
+    },
+    {
+      termino: 'Predicción de demanda',
+      significado:
+        'uso de modelos matemáticos para estimar la demanda futura de productos o servicios.',
+    },
+    {
+      termino: 'Pruebas a/b',
+      significado:
+        'método experimental que compara dos versiones de una variable para determinar cuál es más efectiva.',
+    },
+    {
+      termino: 'Redes bayesianas',
+      significado:
+        'estructuras probabilísticas que modelan la relación entre variables y permiten inferencias sobre datos inciertos.',
+    },
+    {
+      termino: 'Riesgo financiero',
+      significado:
+        'posibilidad de pérdidas económicas debido a incertidumbres en el mercado o malas decisiones estratégicas.',
+    },
+    {
+      termino: 'Segmentación de clientes',
+      significado:
+        'proceso de dividir una base de clientes en grupos con características similares para personalizar estrategias de marketing.',
+    },
+    {
+      termino: 'Toma de decisiones',
+      significado:
+        'proceso de selección de la mejor opción entre varias alternativas en función de datos y objetivos estratégicos.',
     },
   ],
 }

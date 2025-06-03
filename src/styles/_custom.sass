@@ -17,13 +17,19 @@
 
 .bg-color
   &-1
-    background-color: #EAF8FD
+    background-color: #FBE1FD
   &-2
-    background-color: #FFFBE8
+    background-color: #D7E9F7
   &-3
-    background-color: #F0E9F6
+    background-color: #DDDDDD
   &-4
-    background-color: #EAF8FD
+    background-color: #FEE1CA
+  &-5
+    background-color: #F4F4F4
+  &-6
+    background-color: #823D87
+    h5
+      color: #fff
   &-info
     background-color: #E8EEFD
   &-sintesis
@@ -54,8 +60,20 @@
     background-image: url("../assets/bg/bg1.png") !important
     background-position: top
   &-2
-    // background-image: url("../assets/bg/bg2.png") !important
+    background-image: url("../assets/bg/bg2.png") !important
     background-position: bottom
+  &-3
+    background-image: url("../assets/bg/bg3.png") !important
+    background-position: 0 -150px
+    background-repeat: no-repeat
+  &-4
+    background-image: url("../assets/bg/bg4.png") !important
+    background-position: 0 -200px
+    background-repeat: no-repeat
+  &-5
+    background-image: url("../assets/bg/bg5.png") !important
+    background-position: bottom
+    background-repeat: no-repeat
   &-slider
     background-image: url("../assets/bg/bg-slider.png") !important
     background-position: bottom
@@ -97,15 +115,15 @@ $custom-card-img-height: 322px
 
 
 .acordion__header
-  background-color: lighten($color-acento-contenido, 25%) !important
+  background-color: #D7E9F7 !important
 
 .acordion__header--active
-  background-color: $color-acento-contenido !important
+  background-color: #B0D5F0 !important
   h4, i
     color: #000 !important
 
 .acordion__contenido
-  background-color: lighten($color-acento-contenido, 27%) !important
+  background-color: #EAF4FB !important
 
 
 .anexo__texto
@@ -227,3 +245,6 @@ th.bg-color-tabla
 
 .bordes
   border: 1px solid lightgray !important
+
+.tabs-content
+  background-color: #FEF4EC !important

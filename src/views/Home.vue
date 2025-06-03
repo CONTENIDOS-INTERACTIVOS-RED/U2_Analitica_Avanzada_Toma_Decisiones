@@ -22,7 +22,7 @@
             .content-wrapper.px-lg-4.pt-lg-4.px-xxl-5.py-xxl-5.text-start
               p.home-main-title UNIDAD {{ `${globalData.numeroUnidad}` }}
               h1.home-title.mb-4 {{ globalData.tituloUnidad }}
-              p.descripcion.mb-4 La unidad presenta los fundamentos de la analítica avanzada aplicada a la toma de decisiones en contextos empresariales. Aborda los tipos de analítica (descriptiva, predictiva y prescriptiva), sus aplicaciones, herramientas tecnológicas (Power BI, Tableau, Python y R) y el uso de métodos cuantitativos y cualitativos. Se destaca el valor estratégico de los datos para anticipar escenarios, optimizar procesos y proponer acciones basadas en evidencia. La unidad busca fortalecer habilidades analíticas, tecnológicas y estratégicas, esenciales para enfrentar los desafíos del entorno empresarial actual. Se incluyen casos, ejemplos prácticos y recursos digitales de apoyo.
+              p.descripcion.mb-4 La unidad Técnicas Avanzadas para el Análisis de Datos, aborda herramientas clave de analítica avanzada para mejorar la toma de decisiones empresariales. Se exploran modelos de simulación, redes Bayesianas, algoritmos de segmentación y análisis de sensibilidad. Estas metodologías permiten modelar incertidumbre, prever escenarios y optimizar recursos. Se destacan casos reales en empresas como Amazon, Netflix, JP Morgan y Tesla. La unidad promueve habilidades para aplicar datos estratégicamente, fortalecer la competitividad organizacional y aprovechar tecnologías como la inteligencia artificial y el machine learning en contextos reales de negocio.
 
               .button-container.mt-auto
                 router-link.btn-iniciar.w-100.w-md-auto(:to="{ name: 'introduccion' }")

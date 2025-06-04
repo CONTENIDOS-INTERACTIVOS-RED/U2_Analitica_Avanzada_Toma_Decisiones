@@ -141,15 +141,12 @@
   
               p.d-flex.my-4
                 img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-                a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/274611" target="_blank" rel="noopener noreferrer") De Castro Emilio Cerdá, F. J. A. L. M. (s/f). Las energías renovables en el ámbito internacional. Revistasice.com. 
+                a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/29503" target="_blank" rel="noopener noreferrer") de Pedro, R. F. (2009). Algoritmo para la clasificación de preguntas y evaluación del nivel de conocimiento empleando redes bayesianas y la teoría de respuesta al ítem: ( ed.). El Cid Editor | apuntes. 
   
-              p.d-flex.my-4
-                img.me-3(src='@/assets/template/book.svg' :style="{'max-width':'16px'}")
-                span De Janeiro, R. (1992). La declaración del Río sobre el Medio Ambiente y el Desarrollo. Río de Janeiro República Federativa del Brasil., aprobada en Estocolmo el, 16.
   
               p.d-flex.my-4
                 img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
-                a(href="https://youtu.be/QKLjwCMyv3M?si=uAWhO9tnyghljaJg" target="_blank" rel="noopener noreferrer") Innovación y sostenibilidad.
+                a(href="https://www.youtube.com/watch?v=dOBt6VJwbLo" target="_blank" rel="noopener noreferrer") Para qué sirven las redes Bayesianas.
   
             .col-12.col-md-6.col-lg-3.offset-lg-1
               figure

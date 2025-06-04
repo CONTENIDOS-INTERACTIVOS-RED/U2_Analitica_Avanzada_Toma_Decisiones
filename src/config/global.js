@@ -80,14 +80,85 @@ export default {
   referencias: [
     {
       referencia:
-        'Ardaraz, M. (2002). Teoría de las tres dimensiones de desarrollo sostenible: . Ecosistemas, 11(2)',
-      link:
-        'https://www.revistaecosistemas.net/index.php/ecosistemas/article/view/614',
+        'Banks, J., Carson, J. S., Nelson, B. L., & Nicol, D. M. (2010). Discrete-event system simulation (5th ed.). Pearson.',
+      link: 'http://thuviensob.vbu.edu.vn/handle/TVDHBRVT/15995',
     },
     {
       referencia:
-        'Beltrán, D. J. (2002). La estrategia de desarrollo sostenible de la Unión Europea en el contexto global: de Río a Johannesburgo. ICE. Revista de Economía, (800).',
-      link: '',
+        'Terra, L. A. (2018). Strategies for the study of complex socio-economic systems: An approach using agent-based simulation. Systemic Practice and Action Research, 31(3), 311.',
+      link: 'https://doi.org/10.1007/s11213-017-9427-6',
+    },
+    {
+      referencia:
+        'Metropolis, N., & Ulam, S. (1949). The Monte Carlo method. Journal of the American Statistical Association, 44(247), 335-341.',
+      link: 'https://doi.org/10.1080/01621459.1949.10483310',
+    },
+    {
+      referencia:
+        'Darwiche, A. (2009). Modeling and reasoning with Bayesian networks. Cambridge University Press.',
+      link: 'https://doi.org/10.1017/CBO9780511811357',
+    },
+    {
+      referencia:
+        'Jensen, F. V., & Nielsen, T. D. (2007). Bayesian networks and decision graphs (2nd ed.). Springer.',
+      link: 'https://link.springer.com/book/10.1007/978-0-387-68282-2',
+    },
+    {
+      referencia:
+        'Koller, D., & Friedman, N. (2009). Probabilistic graphical models: Principles and techniques. MIT Press.',
+      link:
+        'https://archive.org/details/probabilisticgra0000koll/page/1242/mode/2up',
+    },
+    {
+      referencia:
+        'Andersen, Stig. (1991). Judea Pearl, Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference.. Artif. Intell.. 48. 117-124. 10.1016/0004-3702(91)90084-W.',
+      link:
+        'https://www.researchgate.net/publication/220546096_Judea_Pearl_Probabilistic_Reasoning_in_Intelligent_Systems_Networks_of_Plausible_Inference',
+    },
+    {
+      referencia:
+        'Han, J., Kamber, M., & Pei, J. (2012). Data mining: Concepts and. Techniques, Waltham: Morgan Kaufmann Publishers.',
+      link:
+        'https://homes.di.unimi.it/ceselli/IM/2012-13/slides/02-KnowYourData.pdf',
+    },
+    {
+      referencia:
+        'Jain, A. K. (2010). Data clustering: 50 years beyond K-means. Pattern recognition letters, 31(8), 651-666.',
+      link:
+        'https://www.sciencedirect.com/science/article/abs/pii/S0167865509002323',
+    },
+    {
+      referencia:
+        'Tan, P. N., Steinbach, M., & Kumar, V. (2016). Introduction to data mining. Pearson Education India.',
+      link:
+        'https://thuvienso.hoasen.edu.vn/bitstream/handle/123456789/12544/Contents.pdf?sequence=1',
+    },
+    {
+      referencia:
+        'Friedman, J. H. (2001). Greedy function approximation: A gradient boosting machine. Annals of Statistics, 29(5), 1189-1232.',
+      link: 'https://www.jstor.org/stable/2699986',
+    },
+    {
+      referencia:
+        'James, G., Witten, D., Hastie, T., & Tibshirani, R. (2021). An Introduction to Statistical Learning (2nd ed.). Springer.',
+      link: 'https://www.jstor.org/book/10.1007/978-3-031-38747-0',
+    },
+    {
+      referencia:
+        'Saltelli, Andrea & Tarantola, Stefano & Campolongo, Francesca & Ratto, M.. (2004). Sensitivity Analysis in Practice: A Guide to Assessing Scientific Models.',
+      link:
+        'https://www.researchgate.net/publication/264961263_Sensitivity_Analysis_in_Practice_A_Guide_to_Assessing_Scientific_Models',
+    },
+    {
+      referencia:
+        'Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press.',
+      link: 'https://synapse.koreamed.org/pdf/10.4258/hir.2016.22.4.351',
+    },
+    {
+      referencia:
+        'Murphy, K. P. (2012). Machine Learning: A Probabilistic Perspective. MIT Press.',
+      link:
+        'https://raw.githubusercontent.com/kerasking/book-1/master/ML%20Machine%20Learning-A%20Probabilistic%20Perspective.pdf',
     },
   ],
   glosario: [

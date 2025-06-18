@@ -297,7 +297,7 @@ export default {
           {
             id: 1,
             texto:
-              '¿Cuál de los siguientes algoritmos es más adecuado para la predicción de demanda basada en datos históricos?',
+              'La empresa FashionTrends utiliza modelos predictivos basados en inteligencia artificial para gestionar su inventario y prever la demanda de productos en temporadas específicas. Han notado que ciertos algoritmos mejoran la precisión de las predicciones.<br>¿Cuál de los siguientes algoritmos es más adecuado para la predicción de demanda basada en datos históricos?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
@@ -318,7 +318,7 @@ export default {
           {
             id: 2,
             texto:
-              '¿Cuál es la principal ventaja de las redes Bayesianas en la detección de fraudes financieros?',
+              'El banco SecureFinance implementa redes Bayesianas para mejorar su sistema de detección de fraudes en transacciones electrónicas. Este enfoque probabilístico le permite analizar múltiples factores para determinar si una transacción es sospechosa.<br>¿Cuál es la principal ventaja de las redes Bayesianas en la detección de fraudes financieros?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
@@ -353,7 +353,7 @@ export default {
           {
             id: 3,
             texto:
-              '¿Cuál de los siguientes algoritmos es más adecuado para segmentar clientes según sus hábitos de compra?',
+              'La empresa SmartMarket quiere mejorar su estrategia de marketing segmentando a sus clientes según sus hábitos de compra. Para ello, decide implementar un algoritmo de agrupamiento que le ayude a identificar patrones de comportamiento.<br>¿Cuál de los siguientes algoritmos es más adecuado para este propósito?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
@@ -374,7 +374,7 @@ export default {
           {
             id: 4,
             texto:
-              '¿Qué técnica le permitiría analizar la influencia de cada variable en los resultados del modelo?',
+              'La compañía de seguros LifeSecure utiliza modelos predictivos para calcular el riesgo de sus clientes y ofrecer pólizas personalizadas. Antes de implementar cambios en su modelo, decide evaluar el impacto de diferentes factores en sus predicciones.<br>¿Qué técnica le permitiría analizar la influencia de cada variable en los resultados del modelo?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
@@ -391,7 +391,7 @@ export default {
           {
             id: 5,
             texto:
-              '¿Cuál es la principal razón por la que las redes Bayesianas son útiles en la toma de decisiones en entornos inciertos?',
+              'La empresa AutoFuture utiliza inteligencia artificial y redes Bayesianas para mejorar la seguridad en sus vehículos autónomos. Mediante la recopilación de datos en tiempo real, el sistema debe tomar decisiones instantáneas ante situaciones de riesgo.<br>¿Cuál es la principal razón por la que las redes Bayesianas son útiles en este contexto?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [

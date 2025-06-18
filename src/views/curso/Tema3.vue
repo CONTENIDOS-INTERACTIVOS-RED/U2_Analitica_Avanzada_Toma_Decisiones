@@ -39,7 +39,7 @@
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/tema3/tab-2.png', alt='')
       
-        .tabs-content.border.px-4.p-md-5.py-3(titulo="Título tab 3" :icon="require('@/assets/bullets/icon-tab-c-1.svg')" )
+        .tabs-content.border.px-4.p-md-5.py-3(titulo="Jerárquico" :icon="require('@/assets/bullets/icon-tab-c-1.svg')" )
           .row
             .col-md-6.col-lg-7.col-xl-8.mb-4.mb-md-0.order-2
               h4 Jerárquico
